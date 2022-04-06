@@ -1,0 +1,12 @@
+iframe{
+  width: 100vw;
+  height: 100vh;
+  padding: 0px;
+  margin: 0px;
+  border-width: 0px
+}
+body{
+  margin: 0px;
+  padding: 0px;
+  position: fixed;
+}
